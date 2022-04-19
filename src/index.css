@@ -26,7 +26,8 @@ ul {
 header {
   height: 70px;
   width: 100%;
-  display: flex;
+  /* display: flex;
+  flex-direction:inherit; */
   justify-content: space-between;
   align-items: center;
   margin-bottom: 30px;
