@@ -26,8 +26,6 @@ ul {
 header {
   height: 70px;
   width: 100%;
-  /* display: flex;
-  flex-direction:inherit; */
   justify-content: space-between;
   align-items: center;
   margin-bottom: 30px;
@@ -191,15 +189,13 @@ input:focus {
   color: rebeccapurple;
 }
 
-/* FIX: Remove position: absolute to keep about icon at the bottom of the
- * document */
+
 .about-link {
   display: flex;
   justify-content: flex-end;
 }
 
-/* FIX: Remove position: absolute to keep about icon at the bottom of the
- * document */
+
 .about-link a {
   color: #fff;
   cursor: pointer;

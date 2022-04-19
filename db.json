@@ -2,7 +2,7 @@
   "feedback": [
     {
       "text": "This is feedback item 1 cooming from backend",
-      "rating": 1,
+      "rating": 10,
       "id": 1
     },
     {
@@ -16,14 +16,14 @@
       "id": 4
     },
     {
-      "text": "xcv cv sdvsdvsd fsdf ef",
-      "rating": 9,
-      "id": 5
+      "text": "sdf sdfs dfsdf sdf asdfas",
+      "rating": 10,
+      "id": 6
     },
     {
-      "text": "sdf sdfs dfsdf sdf asdfas",
-      "rating": 3,
-      "id": 6
+      "text": "asd asda sda sdA SD",
+      "rating": 4,
+      "id": 7
     }
   ]
 }
